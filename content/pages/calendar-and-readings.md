@@ -79,7 +79,7 @@ Ritzer, George, ed. "Modernity." _Blackwell Encyclopedia of Sociology_. Malden, 
 
 Walz, Robin. "Modernism." Chapter 4 in _A Companion to Europe 1900-1945_. Edited by Gordon Martel. New York, NY: Wiley-Blackwell, 2006. ISBN: 9781405106641.
 
-Simmel, Georg. "The Metropolis and Mental Life." In _The Sociology of Georg Simmel_. Translated and edited by Georg Simmel and Kurt H. Wolff. New York, NY: Free Press, 1964. ISBN: 9780029289204. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.blackwellpublishing.com/content/BPL_Images/Content_store/Sample_chapter/0631225137/Bridge.pdf))
+Simmel, Georg. "The Metropolis and Mental Life." In _The Sociology of Georg Simmel_. Translated and edited by Georg Simmel and Kurt H. Wolff. New York, NY: Free Press, 1964. ISBN: 9780029289204. ([PDF](http://www.blackwellpublishing.com/content/BPL_Images/Content_store/Sample_chapter/0631225137/Bridge.pdf))
 
 Eliot, T. S. "[The Love Song of J. Alfred Prufrock](http://www.bartelby.org/198/1.html)." In _Prufrock and Other Observations_. Qontro Classics, 2009.
 
